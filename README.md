@@ -4,7 +4,7 @@
 </p>
 
 ## Description:
-This model focuses on the predictive analysis of YouTube view counts, employing the CatBoost algorithm to model and forecast viewership trends. Leveraging the (YouTube API)[https://developers.google.com/youtube/v3], data was collected from a specific channel, encompassing video metadata and comment section sentiment analysis to provide a comprehensive understanding of audience engagement dynamics. 
+This model focuses on the predictive analysis of YouTube view counts, employing the CatBoost algorithm to model and forecast viewership trends. Leveraging the [YouTube API](https://developers.google.com/youtube/v3), data was collected from a specific channel, encompassing video metadata and comment section sentiment analysis to provide a comprehensive understanding of audience engagement dynamics. 
 
 ## Techn Stack
 <div style="display: flex; flex-direction: row;">
