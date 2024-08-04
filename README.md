@@ -1,4 +1,24 @@
-# YouTube View Count Prediction and Viewers Analsysis Model
+</p>
+<h1 align = 'center'>YouTube View Count Prediction and Viewers Analsysis Model</h1>
+<br>
+</p>
+
+## Description:
+
+## Techn Stack
+<div style="display: flex; flex-direction: row;">
+<img src="Images/python.png" width="75" height="75" style="margin-right: 25px;">
+<img src="Images/jupyter.png" width="75" height="75" style="margin-right: 25px;">
+<img src="Images/pandas-logo.png" width="75" height="75" style="margin-right: 25px;">
+<img src="Images/seaborn.svg" width="75" height="75" style="margin-right: 25px;">
+</div>
+<br>
+
+`Language` : Python <br>
+`Platform` : Juypter Notebook <br>
+`Library` : Pandas, Matplotlib, Seaborn, NLTK <br>
+
+
 This study focuses on the predictive analysis of YouTube view counts, 
 employing the CatBoost algorithm to model and forecast viewership 
 trends. Leveraging the YouTube API, data was collected from a specific 
