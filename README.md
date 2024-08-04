@@ -20,6 +20,7 @@ This model focuses on the predictive analysis of YouTube view counts, employing 
 `Platform` : Juypter Notebook <br>
 
 ## Output
+View Count Analysis Output:
 <div style="display: flex; flex-direction: row;">
  <h3>Views Plot</h3>
 <img src="Images/Output/views plot.jpg" width="400" style="margin-right: 25px;">
@@ -41,6 +42,16 @@ This model focuses on the predictive analysis of YouTube view counts, employing 
 <img src="Images/Output/catboost without addition feature.jpg" width="400" style="margin-right: 25px;">
 </div>
 
+Viewer Analysis Output:
+<div style="display: flex; flex-direction: row;">
+ <h3>Boxplot</h3>
+<img src="Images/Output/boxplot sentiment.jpg" width="400" style="margin-right: 25px;">
+ <h3>Sentiment Distribution</h3>
+<img src="Images/Output/sentiment distribution.jpg" width="400" style="margin-right: 25px;">
+ <h3>Wordcloud</h3>
+<img src="Images/Output/wordcloud.jpg" width="400" style="margin-right: 25px;">
+</div>
+<br>
 ## Data collection
 Data collection was facilitated through the YouTube API, enabling the extraction of video metadata such as title, description, and tags, along with engagement metrics including likes, dislikes, and comments. Additionally, sentiment analysis was performed on the comment section to gauge audience sentiment and its impact on viewership. 
 
