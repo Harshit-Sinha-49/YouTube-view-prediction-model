@@ -23,9 +23,9 @@ This model focuses on the predictive analysis of YouTube view counts, employing 
 View Count Analysis Output:
 <div style="display: flex; flex-direction: row;">
  <h3>Views Plot</h3>
-<img src="Images/Output/views plot.jpg" width="500" style="margin-right: 25px;">
+<img src="Images/Output/views plot.jpg" width="600" style="margin-right: 25px;">
  <h3>Scatter Plot</h3>
-<img src="Images/Output/scatter plot.jpg" width="500" style="margin-right: 25px;">
+<img src="Images/Output/scatter plot.jpg" width="600" style="margin-right: 25px;">
  <h3>Views Histogram</h3>
 <img src="Images/Output/views histogram.jpg" width="400" style="margin-right: 25px;">
 <h3>Views Log Histogram</h3>
@@ -61,3 +61,8 @@ The CatBoost algorithm, known for its robustness in handling categorical variabl
 
 ## Result
 The results of our analysis highlight the significance of various factors such as video length, title sentiment, and viewer interaction in influencing view counts. Furthermore, the CatBoost model demonstrated strong predictive performance, accurately capturing the nuances of audience behavior and content preferences.
+
+<div style="display: flex; flex-direction: row;">
+ <h3>Result</h3>
+<img src="Images/Output/result.jpg" width="600" style="margin-right: 25px;">
+</div>
