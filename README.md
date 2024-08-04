@@ -20,13 +20,32 @@ This model focuses on the predictive analysis of YouTube view counts, employing 
 `Platform` : Juypter Notebook <br>
 
 ## Output
-
-
- ## CatBoost algorithm
-The CatBoost algorithm, known for its robustness in handling categorical variables and its ability to mitigate overfitting, was chosen for its suitability in predicting view counts amidst the complex landscape of YouTube content. Through feature engineering and model optimization, our analysis aimed to uncover the key factors influencing video popularity and viewership dynamics. 
+<div style="display: flex; flex-direction: row;">
+ <h3>Views Plot</h3>
+<img src="Images/views plot.jpg" width="400" style="margin-right: 25px;">
+ <h3>Scatter Plot</h3>
+<img src="Images/scatter plot.jpg" width="400" style="margin-right: 25px;">
+ <h3>Views Histogram</h3>
+<img src="Images/views histogram.jpg" width="400" style="margin-right: 25px;">
+<h3>Views Log Histogram</h3>
+<img src="Images/views log histogram.jpg" width="400" style="margin-right: 25px;">
+<h3>Seasonal Decomposition</h3>
+<img src="Images/seasonal decomposition.jpg" width="400" style="margin-right: 25px;"
+ <h3>Seasonal Pattern</h3>
+<img src="Images/seasonal pattern.jpg" width="400" style="margin-right: 25px;">
+ <h3>Data Distribution Plot</h3>
+<img src="data_distribution plot.jpg" width="400" style="margin-right: 25px;">
+ <h3>Heatmap</h3>
+<img src="Images/heatmap.jpg" width="400" style="margin-right: 25px;">
+  <h3>Catboost (without addition feature)</h3>
+<img src="Images/catboost without addition feature.jpg" width="400" style="margin-right: 25px;">
+</div>
 
 ## Data collection
 Data collection was facilitated through the YouTube API, enabling the extraction of video metadata such as title, description, and tags, along with engagement metrics including likes, dislikes, and comments. Additionally, sentiment analysis was performed on the comment section to gauge audience sentiment and its impact on viewership. 
+
+ ## CatBoost algorithm
+The CatBoost algorithm, known for its robustness in handling categorical variables and its ability to mitigate overfitting, was chosen for its suitability in predicting view counts amidst the complex landscape of YouTube content. Through feature engineering and model optimization, our analysis aimed to uncover the key factors influencing video popularity and viewership dynamics. 
 
 ## Result
 The results of our analysis highlight the significance of various factors such as video length, title sentiment, and viewer interaction in influencing view counts. Furthermore, the CatBoost model demonstrated strong predictive performance, accurately capturing the nuances of audience behavior and content preferences.
