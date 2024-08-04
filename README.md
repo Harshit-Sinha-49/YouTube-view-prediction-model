@@ -22,23 +22,23 @@ This model focuses on the predictive analysis of YouTube view counts, employing 
 ## Output
 <div style="display: flex; flex-direction: row;">
  <h3>Views Plot</h3>
-<img src="Images/views plot.jpg" width="400" style="margin-right: 25px;">
+<img src="Images/Output/views plot.jpg" width="400" style="margin-right: 25px;">
  <h3>Scatter Plot</h3>
-<img src="Images/scatter plot.jpg" width="400" style="margin-right: 25px;">
+<img src="Images/Output/scatter plot.jpg" width="400" style="margin-right: 25px;">
  <h3>Views Histogram</h3>
-<img src="Images/views histogram.jpg" width="400" style="margin-right: 25px;">
+<img src="Images/Output/views histogram.jpg" width="400" style="margin-right: 25px;">
 <h3>Views Log Histogram</h3>
-<img src="Images/views log histogram.jpg" width="400" style="margin-right: 25px;">
+<img src="Images/Output/views log histogram.jpg" width="400" style="margin-right: 25px;">
 <h3>Seasonal Decomposition</h3>
-<img src="Images/seasonal decomposition.jpg" width="400" style="margin-right: 25px;"
- <h3>Seasonal Pattern</h3>
-<img src="Images/seasonal pattern.jpg" width="400" style="margin-right: 25px;">
+<img src="Images/Output/seasonal decomposition.jpg" width="400" style="margin-right: 25px;">
+<h3>Seasonal Pattern</h3>
+<img src="Images/Output/seasonal pattern.jpg" width="400" style="margin-right: 25px;">
  <h3>Data Distribution Plot</h3>
-<img src="data_distribution plot.jpg" width="400" style="margin-right: 25px;">
+<img src="Images/Output/data_distribution plot.jpg" width="400" style="margin-right: 25px;">
  <h3>Heatmap</h3>
-<img src="Images/heatmap.jpg" width="400" style="margin-right: 25px;">
+<img src="Images/Output/heatmap.jpg" width="400" style="margin-right: 25px;">
   <h3>Catboost (without addition feature)</h3>
-<img src="Images/catboost without addition feature.jpg" width="400" style="margin-right: 25px;">
+<img src="Images/Output/catboost without addition feature.jpg" width="400" style="margin-right: 25px;">
 </div>
 
 ## Data collection
